@@ -1,8 +1,10 @@
 body{
+    margin: 0 auto;
+    padding: 1px auto;
     background: #707;
 }
 .card{
-    margin: 0 auto;
+    margin: 43px auto;
     background-image: url(./new\ year.png);
     width: 100px;
     height: 100px;
@@ -21,7 +23,7 @@ body{
 .text2{
     margin: 0 auto;
     color: #A0ABAA;
-    font-family: Montserrat;
+    font-family: "Montserrat";
     font-size: 30px;
     font-style: normal;
     font-weight: 500;
