@@ -2,35 +2,36 @@ body{
     background: #707;
 }
 .card{
-    background-image: url(./happysholidays.png);
-margin: 0 auto;
-width: 1230px;
-height: 693px;
-flex-shrink: 0;
+    margin: 0 auto;
+    background-image: url(./new\ year.png);
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
 }
 .text{
-    width: 422px;
-    color: #3C5947;
-    text-align: center;
-    font-family: 'Life Savers';
-    font-size: 100px;
+    margin: 0 auto;
+    color: #A0ABAA;
+    font-family: "Montserrat";
+    font-size: 30px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     line-height: normal;
+    text-transform: uppercase;
 }
 .text2{
-    width: 443px;
-    color: #000;
-text-align: center;
-font-family: "Raleway";
-font-size: 20px;
-font-style: normal;
-font-weight: 300;
-line-height: normal;
-text-transform: uppercase;
+    margin: 0 auto;
+    color: #A0ABAA;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
 }
 .Logo{
+    margin: 0 auto;
     width: 100px;
-height: 100px;
-flex-shrink: 0;
+    height: 100px;
+    flex-shrink: 0;
+    background-image: url(./1.\ Masinerija_Logo\ 1\ \(1\).png);
 }
